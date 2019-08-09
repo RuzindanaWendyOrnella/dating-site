@@ -155,9 +155,9 @@ h1{
     display:block;
     /* display:none; */
     border:5px solid rgb(168, 155, 155);
-    left: 100;
-    top: 90;
-    bottom: 30;
+    right:50px;
+    left: 50;
+    top: 90px;
     border-radius: 5px;
     background-color: whitesmoke;
     min-height: auto;
